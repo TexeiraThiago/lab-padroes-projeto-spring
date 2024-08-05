@@ -12,6 +12,7 @@ Tecnologias Utilizadas
 * Spring Data JPA 
 * Maven 3 
 * Banco de Dados h2
+* Swagger
 * HATEOS
 
 ## Estrutura de diretório
